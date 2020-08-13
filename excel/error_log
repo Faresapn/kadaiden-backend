@@ -1,0 +1,20 @@
+[01-May-2018 13:28:40 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 18
+[01-May-2018 13:28:40 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 21
+[01-May-2018 13:28:40 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 21
+[01-May-2018 13:28:40 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 21
+[01-May-2018 13:28:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 23
+[01-May-2018 13:28:40 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 29
+[01-May-2018 13:28:40 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 29
+[01-May-2018 13:28:40 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 29
+[01-May-2018 13:28:40 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 31
+[01-May-2018 13:28:40 America/New_York] PHP Fatal error:  Call to undefined function rupiah() in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 43
+[01-May-2018 13:29:07 America/New_York] PHP Notice:  Undefined variable: _SESSION in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 18
+[01-May-2018 13:29:07 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 21
+[01-May-2018 13:29:07 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 21
+[01-May-2018 13:29:07 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 21
+[01-May-2018 13:29:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 23
+[01-May-2018 13:29:07 America/New_York] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 29
+[01-May-2018 13:29:07 America/New_York] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 29
+[01-May-2018 13:29:07 America/New_York] PHP Warning:  mysql_query(): A link to the server could not be established in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 29
+[01-May-2018 13:29:07 America/New_York] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, boolean given in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 31
+[01-May-2018 13:29:07 America/New_York] PHP Fatal error:  Call to undefined function rupiah() in /home/alpoojiy/toko.alpokat.com/excel/laporan-keuangan.php on line 43
